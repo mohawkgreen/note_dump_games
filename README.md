@@ -3,6 +3,7 @@
 Bruteforce
   - hydra
     - https://www.kali.org/tools/hydra/
+    - https://youtu.be/-CMBoJ60K1A?t=910
     - Ex. ```hydra -l <username> -P <wordlist> <protocol>://<target.ip.here> -V -I -F -t <number of threads>```
   - aircrack (WPA)
     -  https://www.kali.org/tools/aircrack-ng/
