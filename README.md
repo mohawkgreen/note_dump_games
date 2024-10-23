@@ -27,6 +27,7 @@ Wordlist generation
   - CeWL
     - https://www.kali.org/tools/cewl/
     - https://www.youtube.com/watch?v=ec1ZmW1YxqA
+    - https://www.youtube.com/watch?v=nNvhK1LUD48
     - Ex. ```cewl --depth 2 --write path/to/wordlist.txt url```
 
   - Crunch
